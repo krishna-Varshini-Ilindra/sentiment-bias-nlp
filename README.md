@@ -1,7 +1,8 @@
 # Fairness in Sentiment Analysis — Do NLP Models Treat Everyone Equally?
 
 **Author:** Krishna Varshini Ilindra  
-**Background:** M.S. in Computer Science, University of Bridgeport, Software developer at a startup 
+**Background:** M.S. in Computer Science, University of Bridgeport, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Developer at a startup
 **Run the notebook:** [Open in Colab](https://colab.research.google.com/drive/1y3-6HhZEZoQvNnmmQk3p3DXUsx0_iVdu)
 
 ---
